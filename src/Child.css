@@ -1,0 +1,21 @@
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    padding: 10px;
+}
+
+.inc {
+    background-color: green;
+    color: white;
+}
+
+.dec {
+    background-color: red;
+    color: white;
+}
+
+.reset {
+    background-color: blue;
+    color: white;
+}
